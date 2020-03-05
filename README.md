@@ -1,14 +1,15 @@
 # Econ 224 Map - Spring 2020
-Created for Trinity Prof. Ibrahim Shikaki and students and community partner
+Map content by Trinity Prof. Ibrahim Shikaki and Econ 224 students and community partner
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
 ## [Live Demo](http://action-lab.github.io/econ224-map/index.html)
-- The map is hosted by GitHub and can be found at http://action-lab.github.io/econ224-map/index.html
-- Google Sheets data at https://docs.google.com/spreadsheets/d/1f7nVPR1f-haAx5aonRdn44qa9SbL_a6uUJUdBv76RjE
+- The map is hosted by the Action Lab GitHub account at http://action-lab.github.io/econ224-map/index.html
+- Google Sheets map data at https://docs.google.com/spreadsheets/d/1f7nVPR1f-haAx5aonRdn44qa9SbL_a6uUJUdBv76RjE
 
-## View tutorial
-https://datavizforall.org/leaflet-storymaps-with-google-sheets.html
+## See tutorial and template
+- Read how it works at https://datavizforall.org/leaflet-storymaps-with-google-sheets.html
+- See examples on how to enter data into the [Google Sheets template](https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM)
 
 ## Credits
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College, CT.
