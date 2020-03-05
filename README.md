@@ -1,5 +1,5 @@
-# Leaflet Storymaps with Google Sheets for Econ 224 Spring 2020
-Created for Prof. Ibrahim Shikaki and students and community partner
+# Econ 224 Map - Spring 2020
+Created for Trinity Prof. Ibrahim Shikaki and students and community partner
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
