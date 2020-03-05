@@ -1,15 +1,14 @@
-# Leaflet Storymaps with Google Sheets
+# Leaflet Storymaps with Google Sheets for Econ 224 Spring 2020
+Created for Prof. Ibrahim Shikaki and students and community partner
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
-![Demo Screenshot](media/screenshot.jpg)
+## [Live Demo](http://action-lab.github.io/econ224-map/index.html)
+- The map is hosted by GitHub and can be found at http://action-lab.github.io/econ224-map/index.html
+- Google Sheets data at https://docs.google.com/spreadsheets/d/1f7nVPR1f-haAx5aonRdn44qa9SbL_a6uUJUdBv76RjE
 
-## [Live Demo](http://datavizforall.github.io/leaflet-storymaps-with-google-sheets/index.html)
-- The map is hosted by GitHub and can be found at http://datavizforall.github.io/leaflet-storymaps-with-google-sheets/index.html
-- Google Sheets template https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/
-
-## Create Your Own
-- See step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-storymaps-with-google-sheets.html
+## View tutorial
+https://datavizforall.org/leaflet-storymaps-with-google-sheets.html
 
 ## Credits
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College, CT.
